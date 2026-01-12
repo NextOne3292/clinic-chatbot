@@ -1,13 +1,13 @@
 # Clinic Chatbot
 
 A simple frontend chatbot built using HTML, CSS, and JavaScript.
-It helps clinic visitors with common queries such as timings,
+It helps clinic visitors with common queries such as clinic timings,
 appointments, doctors, and contact details.
 
 ## Features
 - Chat-style user interface
-- Predefined responses for clinic-related questions
-- Runs completely in the browser
+- Predefined rule-based responses
+- Runs entirely in the browser
 
 ## Tech Stack
 - HTML
@@ -20,3 +20,4 @@ appointments, doctors, and contact details.
 
 ## Disclaimer
 This chatbot does not provide medical advice or diagnosis.
+
